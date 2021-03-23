@@ -4,7 +4,7 @@
 
 ## installation (easy way)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sbatrow/Image-UploadBotSI/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sbatrow/Image-UploadBotSI)
 
 Libraries used: => Pyrogram => Telegraph
 
